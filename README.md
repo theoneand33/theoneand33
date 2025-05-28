@@ -6,4 +6,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theoneand33&show_icons=true&theme=dark)
 
 ## Projects I use
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theonand33&repo=github-readme-stats)](https://github.com/zen-browser/desktop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theonand33&repo=desktop)](https://github.com/zen-browser/desktop)
